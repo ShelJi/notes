@@ -1,3 +1,7 @@
 git remote add origin https://github.com/ShelJi/xxxxxxxx.git
 
 git remote -v
+
+set new orgin
+git remote set-url new-origin https://github.com/ShelJi/yyyyyyyyyyy.git
+
