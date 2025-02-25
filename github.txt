@@ -1,6 +1,9 @@
 ######## verify it
 git remote -v
 
+####### git add
+git remote add origin https://github.com/ShelJi/xxxxx.git
+
 ####### Try setting the remote properly with:
 git remote add origin https://github.com/ShelJi/xxxxxxx.git
 
