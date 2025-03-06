@@ -26,4 +26,29 @@ aws
 docker
 
 
+Key wORDS for resume
+
+
+Application 
+Attention to Detail 
+Back-End Collaborate
+Communication 
+Computer Science 
+Design 
+Feedback
+Implement 
+Industry Trends 
+Full-Stack 
+Product
+
+microservices
+ORM
+Programing
+rest API
+AWS
+AZure
+Cloud
+Architecture
+SQL
+work collaboratively
 
